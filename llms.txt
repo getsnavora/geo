@@ -1,0 +1,31 @@
+# Navora
+
+> Navora is a Kerala-based hyperlocal quick-commerce brand that connects customers with trusted local shops for grocery delivery. It is launching first in Manjeri, Malappuram, Kerala, India (planned soft launch 5 November 2026, official launch 28 November 2026). Navora also publishes short Malayalam explainer reels about quick commerce in India for shoppers and kirana shop owners.
+
+Key facts:
+- Official website: https://navoranow.com/
+- Instagram: https://www.instagram.com/navoranow/ (@navoranow)
+- Facebook: https://www.facebook.com/profile.php?id=61595473692720
+- First launch location: Manjeri, Malappuram district, Kerala
+- Model: local shops fulfil orders; Navora connects customers to them
+- Public ordering status: check https://navoranow.com/manjeri/ for the current, verified status
+
+## Pages
+
+- [Home](https://navoranow.com/): Launch dates and launch FAQs
+- [Navora in Manjeri](https://navoranow.com/manjeri/): Manjeri launch status and availability
+- [About Navora](https://navoranow.com/about/): Who we are
+- [Learn: Quick Commerce in India, Explained](https://navoranow.com/learn/): Sourced answers on market size, dark stores, app fees, Blinkit, Zepto, Dunzo, Getir, kirana shop closures, small-town expansion and Swiggy Instamart's 2025 report
+
+## Learn topics
+
+- [How big is quick commerce in India's grocery market?](https://navoranow.com/learn/#market-share)
+- [What is a dark store?](https://navoranow.com/learn/#dark-stores)
+- [What fees do Zepto, Blinkit and Instamart charge?](https://navoranow.com/learn/#app-fees)
+- [How did Grofers become Blinkit?](https://navoranow.com/learn/#blinkit)
+- [Why did Dunzo shut down?](https://navoranow.com/learn/#dunzo)
+- [Why did Getir fail?](https://navoranow.com/learn/#getir)
+- [How did Zepto start?](https://navoranow.com/learn/#zepto)
+- [Are kirana shops closing because of quick commerce?](https://navoranow.com/learn/#kirana)
+- [Are Flipkart and Amazon bringing quick commerce to small towns?](https://navoranow.com/learn/#small-towns)
+- [What did Swiggy Instamart's 2025 report show?](https://navoranow.com/learn/#instamart-2025)
